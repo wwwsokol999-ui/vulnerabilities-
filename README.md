@@ -184,3 +184,7 @@ nmap -sU --top-ports 20 192.168.238.132
 ![3](3.png)
 ![4](4.png)
 ![5](5.png)
+![sS](sS.png)
+![sF](sF.png)
+![sU](sU.png)
+![sX](sX.png)
